@@ -1,1 +1,1 @@
-# ankit
+i3c slave specification
